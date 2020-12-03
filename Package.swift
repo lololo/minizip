@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "R2Streamer",
+    name: "Minizip",
     platforms: [
         .macOS(.v10_10), .iOS(.v12), .tvOS(.v9), .watchOS(.v3)
     ],

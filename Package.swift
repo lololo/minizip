@@ -8,7 +8,7 @@ let package = Package(
         .macOS(.v10_10), .iOS(.v12), .tvOS(.v9), .watchOS(.v3)
     ],
     products: [
-        .library(name: "Minizip", targets: ["Minizip"]),
+        .library(name: "MiniZip", targets: ["Minizip"]),
     ],
     dependencies: [],
     targets: [
